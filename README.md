@@ -36,7 +36,7 @@ I am currently majoring in computer science at IFG Anápolis! I have the power t
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,maven,nodejs,fastapi,express,nginx"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,nodejs,fastapi,express,nginx"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
