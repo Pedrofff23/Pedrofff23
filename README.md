@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Pedro Santana
+### Hello, I'm Pedro Santana
 
 I am currently majoring in computer science at IFG Anápolis! I have the power to develop in frontend, backend. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth.
 
