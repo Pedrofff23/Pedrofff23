@@ -6,11 +6,12 @@
 I am currently majoring in computer science at IFG Anápolis! I have the power to develop in frontend, backend. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth.
 
 ## Connect with me:
-
 <p align = "center">
   
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/pedro-santana-6177b5234/)
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- 
 </p>
 
 
@@ -30,6 +31,7 @@ I am currently majoring in computer science at IFG Anápolis! I have the power t
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrofff23&&theme=tokyonight" alt="Pedrofff23" />
   </a>
 </p>
+-->
 
 ------
 <h3 align="left">Languages and Tools:</h3>
