@@ -3,7 +3,7 @@
 
 ### Hello, I'm Pedro Santana
 
-I am currently majoring in computer science at IFG Anápolis! I have the power to develop in frontend, backend. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth.
+I am currently majoring in computer science at IFG Anápolis! I have the knoledge in developing frontend and backend. I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth.
 
 ## Connect with me:
 <p align = "center">
