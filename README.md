@@ -40,7 +40,7 @@ I am currently majoring in computer science at IFG Anápolis! I have experience 
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,nodejs,fastapi,nginx"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,nodejs,fastapi,nginx,go"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
