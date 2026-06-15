@@ -33,7 +33,7 @@ I am currently majoring in computer science at IFG Anápolis! I have experience 
 </p>
 -->
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/leaderboard_by_bytes.png)
 
 ------
 <h3 align="left">Languages and Tools:</h3>
